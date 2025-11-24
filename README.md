@@ -2,9 +2,9 @@
 Creates plots of percolation on square lattices using matplotlib. The user can control the parameter p and the row/column count. 
 
 # Percolation
-Given a graph G = (V, E) with vertices and edges (e.g. a 2d grid) and a given probablity p with 0 < p < 1, we transform the graph G in the following way: Each edge e remains with probability p (or gets deleted with probablity 1-p). Whether a given edge remains or not is independent from the others. This is percolation. 
+Given a graph G = (V, E) with vertices and edges (e.g. a 2d grid) and a given probability p with 0 < p < 1, we transform the graph G in the following way: Each edge e remains with probability p (or gets deleted with probability 1-p). Whether a given edge remains or not is independent of the others. This is percolation. 
 
-The resulting graph contains multiple clusters of connected vertices ("Connected components"). If the graph G contains infinitely many vertices, mathematicians may study whether a cluster with infinitely many vertices exists. In the example of the square lattice, this is always true when p >= 0.5 and always false when p < 0.5
+The resulting graph contains multiple clusters of connected vertices ("Connected components"). If the graph G contains infinitely many vertices, mathematicians are interested whether a cluster with infinitely many vertices exists. In the example of the square lattice, this is always true when p >= 0.5 and always false when p < 0.5
 
 For more information, check out https://en.wikipedia.org/wiki/Percolation_theory
 
