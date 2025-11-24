@@ -12,3 +12,6 @@ For more information, check out https://en.wikipedia.org/wiki/Percolation_theory
 From now on, consider G = (V, E) to be the square lattice, where each vertex has 4 neighbors (except for the edge cases). One can plot a percolated graph by representing each vertex as a pixel. A neighboring vertex has the same color if and only if it is connected. This way, the different connected components can be visualized.
 
 The following code generates percolated square lattices and plots them using matplotlib. The amount of rows and columns, the probability p and the seed can be adjusted manually. The generated plots can be saved in a custom folder. 
+
+# How to use
+main.py and Percolation.py need to be in the same folder. Percolation.py contains all the functionality for defining lattices, creating percolated graphs etc. while main.py is a simple console application to do test runs. You can either use main.py to create one percolated graph (with different parameters) at a time or use the functions provided in Percolation.py directly.
