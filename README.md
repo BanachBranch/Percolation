@@ -24,4 +24,5 @@ main.py and Percolation.py need to be in the same folder. Percolation.py contain
 ![alt text](https://github.com/BanachBranch/Percolation/blob/main/Example%20Plots/Perc_Rows_600_Prob_0.49_Seed_100.png)
 
 For p >= 0.5, an infinitely large cluster exists with probabiity 1. 
+
 ![alt text](https://github.com/BanachBranch/Percolation/blob/main/Example%20Plots/Perc_Rows_600_Prob_0.50_Seed_100.png)
