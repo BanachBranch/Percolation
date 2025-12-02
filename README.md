@@ -15,3 +15,7 @@ The following code generates percolated square lattices and plots them using mat
 
 # How to use
 main.py and Percolation.py need to be in the same folder. Percolation.py contains all the functionality for defining lattices, creating percolated graphs etc. while main.py is a simple console application to do test runs. You can either use main.py to create one percolated graph (with different parameters) at a time or use the functions provided in Percolation.py directly.
+
+# Examples
+
+https://github.com/BanachBranch/Percolation/blob/main/Example%20Plots/Perc_Rows_600_Prob_0.47_Seed_100.png
