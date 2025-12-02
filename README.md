@@ -18,4 +18,4 @@ main.py and Percolation.py need to be in the same folder. Percolation.py contain
 
 # Examples
 
-https://github.com/BanachBranch/Percolation/blob/main/Example%20Plots/Perc_Rows_600_Prob_0.47_Seed_100.png
+![alt text](https://github.com/BanachBranch/Percolation/blob/main/Example%20Plots/Perc_Rows_600_Prob_0.47_Seed_100.png)
